@@ -1,4 +1,4 @@
-- %filltext:name=Trip Name:default=Place Name Month:width=25% @parallel(true) @autodone(false)
+%filltext:name=Trip Name:default=Place Name Month:width=25% @parallel(true) @autodone(false)
 	- Book flights - check seats @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Book hotel(s) @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Book rental car - car seats? @parallel(true) @autodone(false) @flagged @tags(Online)
