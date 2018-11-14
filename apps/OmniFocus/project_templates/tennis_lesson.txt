@@ -1,0 +1,4 @@
+#person Tennis Lesson #date @autodone(true)
+	- Cancel SACC on #date @parallel(true) @autodone(false) @flagged @tags(Online)
+	- Put #person Tennis Lesson #date on calendar @parallel(true) @autodone(false) @flagged @tags(Mac)
+	- Reminder teacher and #person about Tennis Lesson on #date @parallel(true) @autodone(false) @flagged @tags(Online) @defer(#date 05:00)
