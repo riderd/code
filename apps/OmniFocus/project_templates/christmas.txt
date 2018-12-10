@@ -48,6 +48,8 @@ Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true) @pa
 	- Buy gift for Marsha @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
 	- Buy gifts for Ellen @flagged @tags(Errands,Online) @defer(Dec 5,%filltext:name=year:default=2018:width=5% 05:00)
 	Uncommon goods, national geographic, etsy, the grommet have good gifts
+	- Get money for Jeanne - consult Evernote @flagged @tags(Errands) @defer(Dec 4,%filltext:name=year:default=2018:width=5% 05:00)
+	- Prepare card/money for Jeanne and give to her @flagged @tags(Home) @defer(Dec 6,%filltext:name=year:default=2018:width=5% 05:00)
 	- Buy presents/cards for household helpers and teachers - consult Evernote @flagged @tags(Errands) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
 	- Record presents/cards for household helpers and teachers in Evernote @flagged @tags(Errands) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
 	- Package and delivered presents/cards for household helpers and teachers @flagged @tags(Errands) @defer(Dec 11,%filltext:name=year:default=2018:width=5% 05:00)
