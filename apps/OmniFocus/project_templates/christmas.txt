@@ -1,67 +1,71 @@
 Christmas %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
-	- Put up advent calendar @flagged @tags(home) @defer(Nov 28,%filltext:name=year:default=2018:width=5% 05:00)
+	- Put up advent calendar @flagged @tags(Home) @defer(Nov 28,%filltext:name=year:default=2018:width=5% 05:00)
      kids alternate days depending on age. For example, when C is 3, she gets odd and G (age 6) gets even
-	- Get out Elf on Shelf @flagged @tags(home) @defer(Dec 1,%filltext:name=year:default=2018:width=5% 05:00)
+	- Get out Elf on Shelf @flagged @tags(Home) @defer(Dec 1,%filltext:name=year:default=2018:width=5% 05:00)
 	  name is Amphicoelias
-	- Get out North Pole Communicator @flagged @tags(home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
+	- Get out North Pole Communicator @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
 	  see instructions in Evernote
-	- Buy Christmas Crackers or get them out of box @flagged @tags(Home,Online) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
-	- Bring out Christmas plates, glasses, etc. @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
-	- Gingerbread house @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
+	- Shop for sour cream twists/lefse @flagged @tags(Home,Errands) @defer(Dec 5,%filltext:name=year:default=2018:width=5% 05:00)
+	- Make lefse @flagged @tags(Home) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
+	- Schedule Santa Picture Session @flagged @tags(Online,People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy Christmas Crackers or get them out of box @flagged @tags(Home,Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Bring out Christmas plates, glasses, etc. @flagged @tags(Home) @defer(Dec 14,%filltext:name=year:default=2018:width=5% 05:00)
+	- Gingerbread house @flagged @tags(Home) @defer(Dec 15,%filltext:name=year:default=2018:width=5% 05:00)
 	  http://www.foodnetwork.com/recipes/gingerbread-house-recipe.html
-	- Schedule Santa Picture Session @parallel(true) @flagged @tags(Online,People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Celebrate days of christmas
+	- Celebrate days of christmas @flagged @tags(People:Ellen) @defer(Dec 17,%filltext:name=year:default=2018:width=5% 05:00)
 	  Los Pasados?
 	  Solstice (21), 22 - dance party (22 for tu-tu), festivus (23), Xmas eve (24), Xmas (25), Boxing Day (26) - visit people
-	  
-Solstice %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
-	- Discuss Solstice @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Invite peple for solstice @parallel(true) @flagged @tags(Online) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Buy Yule Log @parallel(true) @flagged @tags(Errands) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-
-Send Christmas Cards %filltext:name=year:default=2018:width=5% @autodone(true)
-	- Talk to Ellen about christmas cards and decide if we are doing or not @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 4,%filltext:name=year:default=2018:width=5% 05:00)
-	- Work on Christmas cards @parallel(true) @flagged @tags(Online,People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Send out Christmas cards @parallel(true) @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
-	
-Plan Christmas Eve/Day %filltext:name=year:default=2018:width=5% @autodone(true)
-	- Plan food for Christmas Eve @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
- 	- Plan food for Christmas Day @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Figure out when to give gifts @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
+	- Make sour cream twists @flagged @tags(Home) @defer(Dec 19,%filltext:name=year:default=2018:width=5% 05:00)
 	 
-Christmas Tree %filltext:name=year:default=2018:width=5% @autodone(true)
-	- Plan where tree is going @parallel(true) @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
-	- Buy tree @parallel(true) @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
-	- Set up tree @parallel(true) @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+Solstice %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Discuss Solstice @flagged @tags(People:Ellen) @defer(Dec 11,%filltext:name=year:default=2018:width=5% 05:00)
+	- Invite peple for solstice @flagged @tags(People:Ellen) @defer(Dec 13,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy Yule Log @flagged @tags(Errands) @defer(Dec 19,%filltext:name=year:default=2018:width=5% 05:00)
+
+Send Christmas Cards %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Talk to Ellen about christmas cards and decide if we are doing or not @flagged @tags(People:Ellen) @defer(Dec 4,%filltext:name=year:default=2018:width=5% 05:00)
+	- Work on Christmas cards @flagged @tags(Online,People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
+	- Send out Christmas cards @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	
+Plan Christmas Eve/Day %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Plan food for Christmas Eve @flagged @tags(People:Ellen) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
+ 	- Plan food for Christmas Day @flagged @tags(People:Ellen) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
+	- Figure out when to give gifts @flagged @tags(People:Ellen) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
+	 
+Christmas Tree %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Plan where tree is going @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	2017, 2018 We put it on the south wall of the living room and moved the bookcase
+	- Buy tree @flagged @tags(Errands) @defer(Dec 12,%filltext:name=year:default=2018:width=5% 05:00)
+	- Set up tree @flagged @tags(Home) @defer(Dec 14,%filltext:name=year:default=2018:width=5% 05:00)
 	  Saw bottom, Set up watering, Tree skirt and plastic around tree
-	- Decorate tree with ornaments and lights @parallel(true) @flagged @tags(Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Decorate tree with ornaments and lights @flagged @tags(Home) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
 
-
-Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true)
-	- Shop for family outside Minnesota @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Send gifts to people outside Minnesota @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Buy gift for Vahl and Amy @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Buy gift for Julie @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Buy gift for Marsha @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Buy presents/cards for household helpers and teachers - consult Evernote @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Record presents/cards for household helpers and teachers in Evernote @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Gaboe buy gift for Caroline @parallel(true) @flagged @tags(Errands) @defer(Dec 2,2018 05:00)
-	- Gaboe buy gift for Ellen @parallel(true) @flagged @tags(Errands) @defer(Dec 2,2018 05:00)
-	- Caroline buy gift for Gaboe @parallel(true) @flagged @tags(Errands) @defer(Dec 2,2018 05:00)
-	- Caroline buy gift for Ellen @parallel(true) @flagged @tags(Errands) @defer(Dec 2,2018 05:00)
-	- Buy Stocking Stuffers @parallel(true) @flagged @tags(Errands) @defer(Dec 2,2018 05:00)
-	- Figure out when to give gifts @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Wrap gifts @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Assemble gifts @parallel(true) @flagged @tags(People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
-	- Record presents in Evernote @parallel(true) @flagged @tags(Online) @defer(Dec 2,2018 05:00)
+Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Shop for family outside Minnesota @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
+	- Send gifts to people outside Minnesota @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy gift for Vahl and Amy @flagged @tags(Online) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
+	Uncommon goods, national geographic, etsy, the grommet have good gifts
+	- Buy gift for Marsha @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy gifts for Ellen @flagged @tags(Errands,Online) @defer(Dec 5,%filltext:name=year:default=2018:width=5% 05:00)
+	Uncommon goods, national geographic, etsy, the grommet have good gifts
+	- Buy presents/cards for household helpers and teachers - consult Evernote @flagged @tags(Errands) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
+	- Record presents/cards for household helpers and teachers in Evernote @flagged @tags(Errands) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Package and delivered presents/cards for household helpers and teachers @flagged @tags(Errands) @defer(Dec 11,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy gift for Julie @flagged @tags(Home) @defer(Dec 18,%filltext:name=year:default=2018:width=5% 05:00)
+	Uncommon goods, national geographic, etsy, the grommet have good gifts
+	- Gaboe buy gift for Caroline @flagged @tags(Errands) @defer(Dec 17,%filltext:name=year:default=2018:width=5% 05:00)
+	- Gaboe buy gift for Ellen @flagged @tags(Errands) @defer(Dec 17,%filltext:name=year:default=2018:width=5% 05:00)
+	- Caroline buy gift for Gaboe @flagged @tags(Errands) @defer(Dec 17,%filltext:name=year:default=2018:width=5% 05:00)
+	- Caroline buy gift for Ellen @flagged @tags(Errands) @defer(Dec 17,%filltext:name=year:default=2018:width=5% 05:00)
+	- Buy Stocking Stuffers @flagged @tags(Errands) @defer(Dec 19,%filltext:name=year:default=2018:width=5% 05:00)
+	- Wrap gifts @flagged @tags(People:Ellen) @defer(Dec 22,%filltext:name=year:default=2018:width=5% 05:00)
+	- Assemble gifts @flagged @tags(People:Ellen) @defer(Dec 24,%filltext:name=year:default=2018:width=5% 05:00)
+	- Record presents in Evernote @flagged @tags(Online) @defer(Dec 25,%filltext:name=year:default=2018:width=5% 05:00)
 	
 	
-Christmas Decorating %filltext:name=year:default=2018:width=5% @autodone(true)
-	- Outside lights? @parallel(true) @flagged @tags(Ellen) @defer(Dec 2,2018 05:00)
+Christmas Decorating %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
+	- Outside lights? @flagged @tags(Ellen) @defer(Nov 29,%filltext:name=year:default=2018:width=5% 05:00)
 	  See evernote for Red Nose Lighting info we've used in the past
-	- Put candles in windows @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	- Interior Decorating @parallel(true) @flagged @tags(Home) @defer(Dec 2,2018 05:00)
-	
-	
-
-Uncommon goods, national geographic, etsy, the grommet have good gifts
+	- Buy AA batteries for candles in windows @flagged @tags(Errands) @defer(Nov 29,%filltext:name=year:default=2018:width=5% 05:00)
+	- Put candles in windows @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
+	- Interior Decorating @flagged @tags(Home) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
