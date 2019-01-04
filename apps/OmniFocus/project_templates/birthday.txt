@@ -1,0 +1,6 @@
+%filltext:name=person:default=Person having party% Birthday Party %filltext:name=date:default=mm/dd/yyyy% @autodone(true) @parallel(true)
+	- RSVP for %filltext:name=person:default=Person having party% party %filltext:name=date:default=mm/dd/yyyy% @flagged @tags(Online)
+	- Put %filltext:name=person:default=Person having party% party %filltext:name=date:default=mm/dd/yyyy% on electronic calendar @flagged @tags(Mac)
+	- Put %filltext:name=person:default=Person having party% party %filltext:name=date:default=mm/dd/yyyy% on paper calendar @flagged @tags(Home)
+	- Get gift for %filltext:name=person:default=Person having party% party @flagged @tags(Errands)
+	- %filltext:name=person:default=Person having party% birthday party %filltext:name=date:default=mm/dd/yyyy% @flagged @tags(Reminder) @defer(%filltext:name=date:default=mm/dd/yyyy% - 1d)
