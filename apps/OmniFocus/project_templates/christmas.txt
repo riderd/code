@@ -16,6 +16,7 @@ Christmas %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(tr
 	  Los Pasados?
 	  Solstice (21), 22 - dance party (22 for tu-tu), festivus (23), Xmas eve (24), Xmas (25), Boxing Day (26) - visit people
 	- Make sour cream twists @flagged @tags(Home) @defer(Dec 19,%filltext:name=year:default=2018:width=5% 05:00)
+	- Read Christmas Cards @flagged @tags(Home) @defer(Dec 28,%filltext:name=year:default=2018:width=5% 05:00)
 	 
 Solstice %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
 	- Discuss Solstice @flagged @tags(People:Ellen) @defer(Dec 11,%filltext:name=year:default=2018:width=5% 05:00)
@@ -34,8 +35,10 @@ Plan Christmas Eve/Day %filltext:name=year:default=2018:width=5% @autodone(true)
 	 
 Christmas Tree %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
 	- Plan where tree is going @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
-	2017, 2018 We put it on the south wall of the living room and moved the bookcase
+	2017, 2018 we put it on the south wall of the living room and moved the bookcase
 	- Buy tree @flagged @tags(Errands) @defer(Dec 12,%filltext:name=year:default=2018:width=5% 05:00)
+	In 2018 we bought it from http://www.fraserfirs.com. I really liked the needles on the tree. They weren't sharp. 
+	Ellen was upset because they wouldn't let her use her chainsaw to cut it down
 	- Set up tree @flagged @tags(Home) @defer(Dec 14,%filltext:name=year:default=2018:width=5% 05:00)
 	  Saw bottom, Set up watering, Tree skirt and plastic around tree
 	- Decorate tree with ornaments and lights @flagged @tags(Home) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
@@ -62,8 +65,8 @@ Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true) @pa
 	- Buy Stocking Stuffers @flagged @tags(Errands) @defer(Dec 19,%filltext:name=year:default=2018:width=5% 05:00)
 	- Wrap gifts @flagged @tags(People:Ellen) @defer(Dec 22,%filltext:name=year:default=2018:width=5% 05:00)
 	- Assemble gifts @flagged @tags(People:Ellen) @defer(Dec 24,%filltext:name=year:default=2018:width=5% 05:00)
-	- Record presents in Evernote @flagged @tags(Online) @defer(Dec 25,%filltext:name=year:default=2018:width=5% 05:00)
-	
+	- Record presents in Evernote @flagged @tags(Home,Online) @defer(Dec 26,%filltext:name=year:default=2018:width=5% 05:00)
+	- Write thank you cards @flagged @tags(Home) @defer(Dec 26,%filltext:name=year:default=2018:width=5% 05:00)
 	
 Christmas Decorating %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
 	- Outside lights? @flagged @tags(Ellen) @defer(Nov 29,%filltext:name=year:default=2018:width=5% 05:00)
