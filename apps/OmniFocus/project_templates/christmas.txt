@@ -43,6 +43,7 @@ Christmas Tree %filltext:name=year:default=2018:width=5% @autodone(true) @parall
 	- Set up tree @flagged @tags(Home) @defer(Dec 14,%filltext:name=year:default=2018:width=5% 05:00)
 	  Saw bottom, Set up watering, Tree skirt and plastic around tree
 	- Decorate tree with ornaments and lights @flagged @tags(Home) @defer(Dec 16,%filltext:name=year:default=2018:width=5% 05:00)
+	- Take tree down @flagged @tags(Home) @defer(Dec 31,%filltext:name=year:default=2018:width=5% 05:00)
 
 Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(true)
 	- Shop for family outside Minnesota @flagged @tags(Home) @defer(Dec 2,%filltext:name=year:default=2018:width=5% 05:00)
