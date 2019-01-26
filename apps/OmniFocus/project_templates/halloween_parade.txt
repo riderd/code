@@ -1,0 +1,19 @@
+Halloween Parade %filltext:name=year:default=2019% @autodone(true) @parallel(true)
+	- reserve trailer @flagged @tags(Online) @defer(Jan 15 %filltext:name=year:default=2019%)
+	http://www.rneighbors.org/building-blocks-neighborhood-party-trailer
+	- plan parade @flagged @tags(Online) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 20d)
+	Organize food and set up
+	Sometimes we do flyers
+	Dropbox/House/703/Halloween Parade
+	Mary, Anna, Joyce have helped in the past
+	
+	Mary and David,
+	Thanks so much for your help with this event! It was great having some partners.
+	I've attached three Word docs for future reference. If you can't open them, I'll send them as pdf's, but as Word docs, you can revise them at another time.
+	Joyce Walker, Realtor
+	
+	- put flyers out? @flagged @tags(Online) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 17d)
+	- put out sign in front yard @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 6d)
+	- accept trailer @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 4d)
+	- set up for parade @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019%)
+	- return trailer @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% + 1d)
