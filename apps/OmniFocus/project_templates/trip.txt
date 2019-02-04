@@ -4,6 +4,7 @@
 	- Book rental car - car seats? @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Book airport transportation - use rochester direct discount/credit? @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Remove SACC days for %filltext:name=Trip Name:default=Place Name Month:width=25% %filltext:name=First day of trip:default=MM/DD/YYYY:width=10% thru %filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% @parallel(true) @autodone(false) @flagged @tags(Online)
+	- Mark off work calendar for %filltext:name=Trip Name:default=Place Name Month:width=25% %filltext:name=First day of trip:default=MM/DD/YYYY:width=10% thru %filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% @parallel(true) @autodone(false) @flagged @tags(Mac)
 	- Make sure passports good for whole trip if going international @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Make sure airline has passport if going international @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)	
 	- Stop postal mail @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
