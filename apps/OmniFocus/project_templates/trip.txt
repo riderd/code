@@ -11,6 +11,7 @@
    http://holdmail.usps.com/holdmail
 	- Make sure info is in TripIt @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Take care of cleaning @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
+	- Arrange for plant watering @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Anybody to visit? @parallel(true) @autodone(false) @flagged @tags(Ellen) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
 	- Look at sports events @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
 	- Cancel cleaning, tennis and other appts @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
