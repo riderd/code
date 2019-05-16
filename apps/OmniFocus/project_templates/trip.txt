@@ -50,6 +50,7 @@
 	- Decline appointments at work when sure leaving on trip @parallel(true) @autodone(false) @flagged @tags(Mac) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10%)
 	- Check into return flight @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% -1d)
 	- Put away suitcases @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +1d)
+	- Put passports back in safe @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +1d)
 	- Unpack @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +1d)
 	- Clean travel retainers @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
 	- Refill toiletries @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
