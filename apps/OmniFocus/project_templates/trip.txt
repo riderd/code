@@ -40,6 +40,7 @@
 	- Set up work voicemail response @parallel(true) @autodone(false) @flagged @tags(Mac) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -2d)	
 	- Fill out Clarity @parallel(true) @autodone(false) @flagged @tags(Mac) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -2d)	
 	- Fill out Mayo Timecard @parallel(true) @autodone(false) @flagged @tags(Mac) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -2d)	
+	- Charge external USB-C battery @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -2d)	
 	- Food into freezer/frig @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -1d)
 	- Bring foreign money if going international @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -1d)
 	- Call Gabriel school absence line @parallel(true) @autodone(false) @tags(Phone) @due(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -1d)
