@@ -16,4 +16,5 @@ Halloween Parade %filltext:name=year:default=2019% @autodone(true) @parallel(tru
 	- put out sign in front yard @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 6d)
 	- accept trailer @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% - 4d)
 	- set up for parade @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019%)
+        We have Joyce's tables in the basement and halloween table cloths in a Halloween box. We also have the heater for apple cider from Joyce when she moved.
 	- return trailer @flagged @tags(Home) @defer(Oct %filltext:name=day of month:default=27:width=5% %filltext:name=year:default=2019% + 1d)
