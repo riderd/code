@@ -51,6 +51,7 @@ Christmas Shopping %filltext:name=year:default=2018:width=5% @autodone(true) @pa
 	- Buy gift for Vahl and Amy @flagged @tags(Online) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
 	Uncommon goods, national geographic, etsy, the grommet have good gifts
 	- Buy gift for Marsha @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	Fracture picture of kids is nice for her
 	- Buy gifts for Ellen @flagged @tags(Errands,Online) @defer(Dec 5,%filltext:name=year:default=2018:width=5% 05:00)
 	Uncommon goods, national geographic, etsy, the grommet have good gifts
 	- Get money for Jeanne - consult Evernote @flagged @tags(Errands) @defer(Dec 4,%filltext:name=year:default=2018:width=5% 05:00)
