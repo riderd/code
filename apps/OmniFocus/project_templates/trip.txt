@@ -29,6 +29,9 @@
 	- get coins in backpack for tolls @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
 	- Pack @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
 	- vacation checklist @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
+	- refill toiletries @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
+	Hair stuff, mouthwash, toothpaste, floss, deodorant
+	- reschedule Caroline gymnastics @parallel(true) @autodone(false) @flagged @tags(Phone) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -4d)
 	- Get $5s and $1s for tips from bag @parallel(true) @autodone(false) @flagged @tags(Errands) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -3d)
 	- Make sure next vacation is in OmniFocus @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -3d)
 	- If flying Southwest, set up reminders for checking in 1 day before departure and return @parallel(true) @autodone(false) @flagged @tags(OmniFocus) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -3d)
