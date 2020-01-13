@@ -10,6 +10,8 @@ Christmas %filltext:name=year:default=2018:width=5% @autodone(true) @parallel(tr
 	- Make lefse @flagged @tags(Home) @defer(Dec 8,%filltext:name=year:default=2018:width=5% 05:00)
 	- Schedule Santa Picture Session @flagged @tags(Online,People:Ellen) @defer(Dec 7,%filltext:name=year:default=2018:width=5% 05:00)
 	- Buy Christmas Crackers or get them out of box @flagged @tags(Home,Online) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	- Get out Festivus stuff @flagged @tags(Home) @defer(Dec 10,%filltext:name=year:default=2018:width=5% 05:00)
+	Big pole, little plastic pole and magnets
 	- Bring out Christmas plates, glasses, etc. @flagged @tags(Home) @defer(Dec 14,%filltext:name=year:default=2018:width=5% 05:00)
 	- Gingerbread house @flagged @tags(Home) @defer(Dec 15,%filltext:name=year:default=2018:width=5% 05:00)
 	  http://www.foodnetwork.com/recipes/gingerbread-house-recipe.html
