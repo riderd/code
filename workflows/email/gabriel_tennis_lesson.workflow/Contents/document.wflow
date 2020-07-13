@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>490</string>
+	<string>492</string>
 	<key>AMApplicationVersion</key>
 	<string>2.10</string>
 	<key>AMDocumentVersion</key>
@@ -46,7 +46,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>Picking up Gaboe from school today</string>
+							<string>Gabriel sick today</string>
 						</array>
 					</dict>
 					<key>toAddresses</key>
@@ -74,7 +74,7 @@
 					<key>ccAddresses</key>
 					<string></string>
 					<key>message</key>
-					<string>Gaboe has a tennis lesson right after school so he will walk home and won’t be going to SACC. I have told him as well.
+					<string>Gabriel is sick today. I will call the absence line.
 
      thanks,
            dave</string>
@@ -85,21 +85,17 @@
 					MFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxm
 					MFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGlj
 					YTt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVl
-					bjI1NVxibHVlMjU1O1xyZWQwXGdyZWVuMFxi
-					bHVlMDt9CntcKlxleHBhbmRlZGNvbG9ydGJs
-					OztcY3NzcmdiXGMwXGMwXGMwO30KXGRlZnRh
-					YjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccGFy
-					dGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxj
-					ZjAgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5n
-					MApHYWJvZSBoYXMgYSB0ZW5uaXMgbGVzc29u
-					IHJpZ2h0IGFmdGVyIHNjaG9vbCBzbyBoZSB3
-					aWxsIHdhbGsgaG9tZSBhbmQgd29uXCc5MnQg
-					YmUgZ29pbmcgdG8gU0FDQy4gSSBoYXZlIHRv
-					bGQgaGltIGFzIHdlbGwuXApcCiAgICAgdGhh
-					bmtzLFwKICAgICAgICAgICBkYXZlfQ==
+					bjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVk
+					Y29sb3J0Ymw7O30KXGRlZnRhYjcyMApccGFy
+					ZFxwYXJkZWZ0YWI3MjBccGFydGlnaHRlbmZh
+					Y3RvcjAKClxmMFxmczI0IFxjZjAgXGV4cG5k
+					MFxleHBuZHR3MFxrZXJuaW5nMApHYWJyaWVs
+					IGlzIHNpY2sgdG9kYXkuIEkgd2lsbCBjYWxs
+					IHRoZSBhYnNlbmNlIGxpbmUuXApcCiAgICAg
+					dGhhbmtzLFwKICAgICAgICAgICBkYXZlfQ==
 					</data>
 					<key>subject</key>
-					<string>Picking up Gaboe from school today</string>
+					<string>Gabriel sick today</string>
 					<key>toAddresses</key>
 					<string>Kimberly Books &lt;KIBOOKS@rochester.k12.mn.us&gt;</string>
 				</dict>
@@ -305,7 +301,7 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>C376A2BB-FBE0-42EA-9F8C-AB9AA67606F6</key>
+		<key>C8BA7884-7C47-4051-8340-E7AF0D6C0D2F</key>
 		<dict>
 			<key>from</key>
 			<string>AD73E5D3-B674-422B-9536-4C0F21E83FB9 - AD73E5D3-B674-422B-9536-4C0F21E83FB9</string>
