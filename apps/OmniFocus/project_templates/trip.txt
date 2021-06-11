@@ -62,5 +62,6 @@
 	- Clean travel retainers @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
 	- Pay for pet care @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
 	- Refill toiletries @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
+        Hair stuff, mouthwash, toothpaste, floss, deodorant, contacts
 	- If flying Delta, make sure you got 1 free checked bag @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +2d)
 	- post vacation checklist @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% +3d)
