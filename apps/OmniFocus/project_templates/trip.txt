@@ -15,6 +15,7 @@
 	- Take care of cleaning @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Let Dianna know if we are gone for piano lessons @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Arrange for plant watering @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
+	- Stop paper @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -10d)
 	- Anybody to visit? @parallel(true) @autodone(false) @flagged @tags(Ellen) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
 	- Look at sports events @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
 	- Cancel cleaning, tennis and other appts @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -7d)
@@ -31,7 +32,7 @@
 	- Pack @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
 	- vacation checklist @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
 	- refill toiletries @parallel(true) @autodone(false) @flagged @tags(Home) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -5d)
-	Hair stuff, mouthwash, toothpaste, floss, deodorant
+	Hair stuff, mouthwash, toothpaste, floss, deodorant, contacts
 	- reschedule Caroline gymnastics @parallel(true) @autodone(false) @flagged @tags(Phone) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -4d)
 	- confirm name on IHG reservations @parallel(true) @autodone(false) @flagged @tags(Online) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -4d)
 	- Get $5s and $1s for tips from bag @parallel(true) @autodone(false) @flagged @tags(Errands) @defer(%filltext:name=First day of trip:default=MM/DD/YYYY:width=10% -3d)
