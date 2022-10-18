@@ -4,6 +4,8 @@
 	- Book rental car - car seats? @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Make sure info is in TripIt @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Book airport transportation - use rochester direct discount/credit? @parallel(true) @autodone(false) @flagged @tags(Online)
+	- Fill out SEMYO absence form @parallel(true) @autodone(false) @flagged @tags(Online)
+        https://www.semyo.org/experience/members-page/absence-notification/
 	- Remove SACC days for %filltext:name=Trip Name:default=Place Name Month:width=25% %filltext:name=First day of trip:default=MM/DD/YYYY:width=10% thru %filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% @parallel(true) @autodone(false) @flagged @tags(Online)
 	- Mark off work calendar for %filltext:name=Trip Name:default=Place Name Month:width=25% %filltext:name=First day of trip:default=MM/DD/YYYY:width=10% thru %filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% @parallel(true) @autodone(false) @flagged @tags(Mac)
 	- Set appointments at work to tentative %filltext:name=Trip Name:default=Place Name Month:width=25% %filltext:name=First day of trip:default=MM/DD/YYYY:width=10% thru %filltext:name=Last day of trip:default=MM/DD/YYYY:width=10% @parallel(true) @autodone(false) @flagged @tags(Mac)
